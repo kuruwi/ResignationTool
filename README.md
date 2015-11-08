@@ -1,3 +1,2 @@
 # ResignationTool
-ResignationTool
 Word VBA
